@@ -1,5 +1,5 @@
 # GA<br>
-***Genetic Algorithm***
+****Genetic Algorithm****<br>
 #################################################<br>
  *applied the genetic algorithm by python jupyter*<br>
 #################################################<br>
