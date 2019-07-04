@@ -1,11 +1,11 @@
-# GA
-Genetic Algorithm 
-#################################################\n
- applied the genetic algorithm by python jupyter
-#################################################
-the parameter has:
-DNA size
-the number of chromosome
-mutate rate
-genetic cross rate
-the evolute algorithm 
+# GA<br>
+***Genetic Algorithm***
+#################################################<br>
+ *applied the genetic algorithm by python jupyter*<br>
+#################################################<br>
+the parameter has:<br>
+DNA size<br>
+the number of chromosome<br>
+mutate rate<br>
+genetic cross rate<br>
+the evolute algorithm <br>
