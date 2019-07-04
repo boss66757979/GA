@@ -1,6 +1,6 @@
 # GA
 Genetic Algorithm 
-#################################################
+#################################################\n
  applied the genetic algorithm by python jupyter
 #################################################
 the parameter has:
